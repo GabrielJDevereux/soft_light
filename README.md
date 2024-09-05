@@ -1,5 +1,5 @@
 # soft_light
-Soft_Light_Calculators
+diffusercalc
 The following is designed to quantify light loss from a diffuser or series of diffusers.
 
 Gabriel Devereux
